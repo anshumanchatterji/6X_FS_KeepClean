@@ -16,5 +16,13 @@
       <IsDeleted>false</IsDeleted>
       <ListValues />
     </GlobalVariable>
+    <GlobalVariable>
+      <Name>Var1</Name>
+      <Value xsi:type="xsd:string">asdfasdf</Value>
+      <DataType_ENUM>String</DataType_ENUM>
+      <ExternallyUpdatable>true</ExternallyUpdatable>
+      <IsDeleted>false</IsDeleted>
+      <ListValues />
+    </GlobalVariable>
   </GlobalVarables>
 </GlobalVariableSchema>
