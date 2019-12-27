@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "ArtifactPath": "Project Workspace\\TC1.oktc",
+    "UsedInArtifactPath": "Project Workspace\\Suite.okst"
+  },
+  {
+    "ArtifactPath": "GlobalVariables/Default Browser",
+    "UsedInArtifactPath": "Project Workspace\\TC1.oktc"
+  },
+  {
+    "ArtifactPath": "GlobalVariables/Var1",
+    "UsedInArtifactPath": "Project Workspace\\TC1.oktc"
+  }
+]
